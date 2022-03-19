@@ -1,6 +1,3 @@
-// SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts v4.4.1 (utils/Arrays.sol)
-
 pragma solidity ^0.8.0;
 
 import "./Math.sol";
